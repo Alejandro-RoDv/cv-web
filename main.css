@@ -372,7 +372,7 @@ details.clece::before {
 }
 
 details.bufete::before {
-  background-image: url("bufete.PNG");
+  background-image: url("bufete.png");
 }
 
 details.temps::before {
@@ -1001,4 +1001,5 @@ details ul li {
 details ul li::marker {
   color: #004c70;                        /* color azul corporativo del bullet */
   font-size: 1.05em;                     /* un pelín más grande y visible */
+
 }
